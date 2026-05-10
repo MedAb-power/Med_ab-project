@@ -32,4 +32,8 @@ This repository contains the files for UltimMC, a custom Minecraft launcher setu
 This project is for educational and personal use.
 
 ## 👤 Author
+HEAD
 Made by Master_Med_Ab
+=======
+Made by Master_Med_Ab
+ 24478e6e2e1b6ffe9c7b5951abaa5e825ab82fa7
